@@ -1,6 +1,10 @@
 # VB6 3D Flocking Boids
 
-![demo Animation](https://media.giphy.com/media/dJRcmFdKd2ezVKjwrF/giphy.gif)
+Idea from: https://www.youtube.com/watch?v=gpc7u3331oQ
+
+Additional information: <br>
+-http://www.red3d.com/cwr/boids/ <br>
+-https://eater.net/boids
 
 3D swimming Fishes Implemented by Flocking Boids Algorithm
 ----------------------------------------------------------
